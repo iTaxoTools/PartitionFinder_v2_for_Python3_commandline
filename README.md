@@ -10,7 +10,7 @@ https://github.com/brettc/partitionfinder
 
 http://www.robertlanfear.com/partitionfinder/tutorial/
 
-See the originatl publuication:
+See the originatl publication:
 
 Lanfear R, Frandsen PB, Wright AM, Senfeld T, Calcott B. (2016) PartitionFinder 2: New Methods for Selecting Partitioned Models of Evolution for Molecular and Morphological Phylogenetic Analyses. Molecular Biology and Evolution 34(3):772-773 
         

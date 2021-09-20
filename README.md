@@ -1,4 +1,4 @@
-# Partitionfinder_Python3_version_commandline
+# PartitionFinder v2 - adapted for Python 3
 
 PartitionFinder 2 for Python 3
 
@@ -14,6 +14,9 @@ See the originatl publuication:
 
 Lanfear R, Frandsen PB, Wright AM, Senfeld T, Calcott B. (2016) PartitionFinder 2: New Methods for Selecting Partitioned Models of Evolution for Molecular and Morphological Phylogenetic Analyses. Molecular Biology and Evolution 34(3):772-773 
         
+
+---------------------
+
 
 The original Partitionfinder program is not maintained anymore, and its functionalities have been included in the program IQtree. Since the simple Partitionfinder might still be useful in some cases, but the original code only runs in Python 2, we here provide a version adapted for Python 3. This work was done in the framework of the iTaxoTools project:
 http://itaxotools.org/
